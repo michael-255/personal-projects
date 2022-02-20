@@ -1,4 +1,6 @@
-# Personal projects
-This repository is for small personal projects, experiments, and book related
-projects that I do in my free time. The projects will be contained in a folder
-named after the primary language used.
+# Raspberry Pi 2 Camera Controller
+
+This is a simple GUI program written in Python that gives you access to many of
+the options available on the Raspberry Pi's Camera in a easy to use and
+understand interface. It was done as a demonstration program for the students
+of the Notre Dame Summer Scholars program in 2015.

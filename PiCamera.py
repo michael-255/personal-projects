@@ -1,9 +1,5 @@
 #######################################
 #                                     #
-#      University of Notre Dame       #
-#    Center for Research Computing    #
-#                                     #
-#       Summer Scholars 2015          #
 #     Example PiCamera Program        #
 #                                     #
 #######################################
